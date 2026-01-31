@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import vaex
+# import vaex
 from pymongo import MongoClient
 import certifi
 import altair as alt

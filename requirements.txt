@@ -1,9 +1,14 @@
 streamlit
 pandas
-vaex
+# Thay vì vaex, ta cài từng món nhỏ để không bị lỗi
+vaex-core
+vaex-hdf5
+vaex-viz
+# Các thư viện khác
 pymongo
 certifi
 matplotlib
 seaborn
 numpy
 dnspython
+blake3

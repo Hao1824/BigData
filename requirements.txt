@@ -1,0 +1,9 @@
+streamlit
+pandas
+vaex
+pymongo
+certifi
+matplotlib
+seaborn
+numpy
+dnspython
